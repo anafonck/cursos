@@ -1,0 +1,17 @@
+24/02 a 06/03
+Trello / Notion
+Tempo inicial - organização
+Final desafio de back tem o link da API(https://desafio-backend-03-dindin.herokuapp.com/)
+Figma do Front (https://www.figma.com/file/BwOAJkF8OeMON36TyFdhkj/DinDin-2.0?node-id=0%3A1)
+
+Rozemeire de Freitas
+
+
+https://bit.ly/desafio-carreira-M3-DDS09
+
+https://www.hostinger.com.br/tutoriais/renomear-branch-git
+git branch -m nome-antigo novo-nome (renomear branch)
+git checkout -b <nomedabranch> Criar branch
+
+para subir nova branch no projeto
+git push --set-upstream origin teste
